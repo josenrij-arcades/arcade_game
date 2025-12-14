@@ -1,3 +1,5 @@
+# Arcade Balance Game v0.1
+
 import pygame
 import sys
 import time
